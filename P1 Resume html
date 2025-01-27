@@ -106,8 +106,8 @@ ul {
         </div>
         <div class="personal-info-container">
             <div class="personal-info">
-                <p><i class="fa-solid fa-user"></i> Pranav Jain</p>
-                <p><i class="fa-solid fa-envelope"></i> chotu@gmail.com</p>
+                <p><i class="fa-solid fa-user"></i>Maahi Bedre</p>
+                <p><i class="fa-solid fa-envelope"></i> mahi@gmail.com</p>
                 <p><i class="fa-solid fa-phone"></i> +91 9669966996</p>
                 <p><i class="fa-brands fa-github"></i>
                     <a href="https://github.com/sample-profile" target="_blank">Github Profile</a>
@@ -126,15 +126,15 @@ ul {
                 <tbody>
                     <tr>
                         <td>Pimpri Chinchwad University</td>
-                        <td>4.81</td>
+                        <td>8.81</td>
                     </tr>
                     <tr>
-                        <td>kanyashalaa</td>
-                        <td>33%</td>
+                        <td>SBPPS</td>
+                        <td>98%</td>
                     </tr>
                     <tr>
-                        <td>kanyashala </td>
-                        <td>41%</td>
+                        <td>SBPPS </td>
+                        <td>91%</td>
                     </tr>
                 </tbody>
             </table>
@@ -149,5 +149,6 @@ ul {
         <div class="achievements">
             <h2>Achievements</h2>
             <ul>
-                <li>Scored4.1 CGPA in 1st Sem</li>
-                <li>Achieved a score of 2.00 in MATPO GFG national level contest(s…
+                <li>Scored 8.1 CGPA in 1st Sem</li>
+               <li>Achieved a score of 9.00 in MATPO GFG national level contest.
+
