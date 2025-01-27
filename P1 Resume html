@@ -1,13 +1,153 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Resume</title>
-  </head>
-  <body>
-    <h1 style="color:orange;border:3px solid blue;text-align:center;"> Maahi Bedre</h1>
-<div style="background-color:olive">
-<img style="align:left">
-<img 
-<img https://th.bing.com/th/id/R.7168460c2375f253e7b7044f11631856?rik=tCfaN7kepSe14A&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fniB%2fR45%2fniBR456qT.jpg&ehk=zTzx85qdABNZnDMClvaATICEfh1rVVyD9agWabrpxaA%3d&risl=&pid=ImgRaw&r=0 
-  </body>
-</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/8375431e4f.js" crossorigin="anonymous"></script>
+    <title>Biodata</title>
+</head>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    padding: 20px;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc; /* Light Gray */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Black (with opacity) */
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+h1 {
+    color: #2196F3; /* Blue */
+}
+h2 {
+    color: #2196F3; /* Blue */
+    text-decoration: underline;
+}
+p, ul {
+    color: #333; /* Dark Gray */
+}
+ul {
+    margin-left: 10px;
+}
+
+.personal-info-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.image-section {
+    flex: 0 0 200px; /* Fixed width for image section */
+    margin-top: 30px; /* Align with content after h2 */
+}
+
+.image-section img {
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Black (with opacity) */
+}
+
+.education-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.education-table th,
+.education-table td {
+    border: 1px solid #ddd; /* Light Gray */
+    padding: 12px;
+    text-align: left;
+}
+
+.education-table th {
+    background-color: #f5f5f5; /* Light Gray */
+    font-weight: bold;
+}
+
+.image-section {
+    flex: 0 0 auto;
+    width: 150px;
+    margin: 0 auto 20px;
+}
+.image-section img {
+    width: 150px;
+    height: 150px;
+}
+/* Common spacing for all sections */
+.skills,
+.education,
+.achievements,
+.projects,
+.certificate
+.hobbies {
+    margin-bottom: 30px;
+}
+</style>
+<body>
+    <div class="container">
+        <header>
+            <h1>Biodata</h1>
+        </header>
+        <div class="image-section">
+            <center><img src="C:\Users\student\Downloads\IMG_20240803_112427.jpg" alt="Profile Image"></center>
+        </div>
+        <div class="personal-info-container">
+            <div class="personal-info">
+                <p><i class="fa-solid fa-user"></i> Pranav Jain</p>
+                <p><i class="fa-solid fa-envelope"></i> chotu@gmail.com</p>
+                <p><i class="fa-solid fa-phone"></i> +91 9669966996</p>
+                <p><i class="fa-brands fa-github"></i>
+                    <a href="https://github.com/sample-profile" target="_blank">Github Profile</a>
+                </p>
+            </div>
+        </div>
+        <div class="education">
+            <h2>Education </h2>
+            <table class="education-table">
+                <thead>
+                    <tr>
+                        <th>University/School</th>
+                        <th>CGPA/Percentage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Pimpri Chinchwad University</td>
+                        <td>4.81</td>
+                    </tr>
+                    <tr>
+                        <td>kanyashalaa</td>
+                        <td>33%</td>
+                    </tr>
+                    <tr>
+                        <td>kanyashala </td>
+                        <td>41%</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>none</li>
+                
+            </ul>
+        </div>        
+        <div class="achievements">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Scored4.1 CGPA in 1st Sem</li>
+                <li>Achieved a score of 2.00 in MATPO GFG national level contest(s…
